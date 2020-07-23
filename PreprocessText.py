@@ -265,10 +265,13 @@ def preprocess(texto):
     text = noPunctutionExtra(text)
 
 
+
     text = accentRemoval(text)
+
+	text = 	StopWordsRemoval(text)
 
     
 
-    return ProcessingText_AR
+    return text
 
 
