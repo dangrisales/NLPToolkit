@@ -3,7 +3,7 @@
 """
 Created on Thu Jul 23 15:13:14 2020
 
-@author: daniel
+@author: Paula Andrea Perez Toro
 """
 import string
 import spacy
